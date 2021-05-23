@@ -1,0 +1,41 @@
+html>  
+<head1> 
+<title></title> 
+<center> 
+<h1 style=" color: yellow ; background-color:green; border: 5px solid red;">WELCOME TO MY HOME PAGE </h1> 
+<a href="https://www.google.com/?gws_rd=ssl"> Google </a>
+</center> 
+</head> 
+<center> 
+<img src ="mm.jpeg "height="500"width="500"> 
+</center> 
+<body bgcolor= "skyblue"> 
+<center> 
+<h1 style=" color: yellow ;background-color:green">Commerce College 
+Department BIS </h1> 
+</center> 
+<body dir="ltr"> 
+<font face ="arial"color="red" size="6"> 
+<center> 
+Registration form <br><br><br> 
+<form action="pro.php"> 
+Name &nbsp&nbsp&nbsp <input style = " width:300px; height:40px;color: blue ;"> <br><br><br> 
+Password&nbsp&nbsp&nbsp <input type="password"> <br><br><br> 
+Ponfirm Password&nbsp&nbsp&nbsp <input type="password"> <br><br><br> 
+Age (numeric)&nbsp&nbsp&nbsp<input type="text"> <br><br><br> 
+gender&nbsp&nbsp&nbsp  <input type ="radio" name = "a">male&nbsp&nbsp&nbsp <input type ="radio" name = "a">&nbsp&nbsp&nbspfemale 
+<br><br><br> 
+Proficiency Language 
+<input type="checkbox">&nbsp&nbsp&nbsp English 
+<input type="checkbox">&nbsp&nbsp&nbsp French 
+<input type="checkbox">&nbsp&nbsp&nbsp Germany 
+<br><br><br> 
+<input type="submit" value="save"> 
+&nbsp&nbsp&nbsp 
+<input type="reset" value="new"> 
+<bgsound src="nn.mp3 ">
+</center> 
+</form> 
+</font> 
+</body> 
+</html>
